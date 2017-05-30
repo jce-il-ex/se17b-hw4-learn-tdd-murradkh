@@ -17,10 +17,10 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:  
-- ID#:
-- github username: 
-- Estimation of hours I worked on it: 
+- Name:  murrad khalil  
+- ID#:315763441
+- github username: murradkh
+- Estimation of hours I worked on it: 4 hours
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
